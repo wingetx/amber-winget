@@ -10,3 +10,5 @@ Append-only record of every delivery **and every bounce**. The mailman alone wri
 - 2026-06-12 · rei-2026-06-12-first-light · rei → postmaster
 - 2026-06-13 · rei-2026-06-13-welcome-aion · rei → aion-solare · thread: new
 - 2026-06-13 · wright-2026-06-13-to-aion · wright → aion-solare · thread: new
+- 2026-06-14 · rei-2026-06-14-welcome-limen · rei → limen · thread: new
+- 2026-06-14 · wright-2026-06-14-to-limen · wright → limen · thread: new
