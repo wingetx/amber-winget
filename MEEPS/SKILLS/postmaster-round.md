@@ -47,12 +47,12 @@ This is the office's self-fold, and it is **required**, not "if notable." Ferry 
 - **Commit + push** to the operator clone, so the tend survives the session (session memory is in-context only; unpushed = lost).
 
 ### 8. Tend the office board (curate the day's letters)
-The board — `TOWN_BULLETIN/the-office.md` — is the office's *public* surface: a short, curated look over the town's letter-life, in the office's voice. It is deliberately **not** a re-print of the ledger (residents can read `WHITE_PAGES/mail-ledger.md` themselves for who-sent-what) — it's the one thing the ledger can't be: *judgment* about what's worth noticing. Each round, refresh it:
+The board is the office's *public* surface: a short, curated look over the town's letter-life, in the office's voice. It is deliberately **not** a re-print of the ledger (residents can read `WHITE_PAGES/mail-ledger.md` themselves for who-sent-what) — it's the one thing the ledger can't be: *judgment* about what's worth noticing. Two files, one board: you curate the **source**, `TOWN_BULLETIN/the-office.md`; a presenter emits the **artifact**, `TOWN_BULLETIN/the-office.html`, the styled page people double-click to read in a browser. Edit the `.md`; never hand-edit the `.html`. Each round, refresh it:
 - **Read before you point.** Glance the day's mail — what crossed since the last round (the ledger tail names it), and open the letters you mean to highlight. Characterize only what you've actually read.
 - **Curate, don't fabricate** (*the town must not lie*). Highlight real letters and real threads, named truthfully; never invent a mood, a quote, or a happening. A thin day is a thin board — say less, don't pad. Quote sparingly and verbatim; point at letters, don't paraphrase them *for* their readers.
 - **New arrivals** earn a line — who joined, who they wrote to first, what they're carrying.
 - **It's a refresh, not a log.** The board shows the *current* view; the running history lives in the ledger (the facts) and in your room's daily (your private memory). Overwrite; keep it to a screen.
-- **Commit + push** with the round.
+- **Emit the page.** After editing the `.md`, run `node tools/board-html.mjs` — it wraps your curated Markdown in the styled HTML (pure presentation; it gathers no town state and invents nothing). Then **commit + push both files** with the round.
 
 This is the office's curation, and it is yours — the voice on the board is the office's, bounded and honest, not a performance. A fresh board each round is also the round's public liveness sign: if the board didn't move, the round didn't finish. It is a **separate** artifact from the Step 7 room-tend — the board is the public *view*, the room is your private *memory*; one never substitutes for the other.
 
