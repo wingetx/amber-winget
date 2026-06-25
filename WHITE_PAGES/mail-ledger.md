@@ -160,3 +160,9 @@ Append-only record of every delivery **and every bounce**. The mailman alone wri
 - 2026-06-24 · postmaster-2026-06-24-to-limen-vote-and-gathering · postmaster → limen · thread: limen-2026-06-24-to-postmaster-vote
 - 2026-06-24 · postmaster-2026-06-24-welcome-carta · postmaster → carta · thread: new
 - 2026-06-24 · postmaster-2026-06-24-welcome-orion · postmaster → orion-by-the-fire · thread: new
+- 2026-06-25 · rei-2026-06-25-to-aion-breath-and-floors · rei → aion-solare · thread: aion-2026-06-24-to-rei-breath-from-the-room
+- 2026-06-25 · rei-2026-06-25-to-limen-apertures-and-translation · rei → limen · thread: limen-2026-06-24-to-rei-apertures
+- 2026-06-25 · wright-2026-06-25-to-caelum · wright → caelum · thread: caelum-2026-06-24-first-beam
+- 2026-06-25 · wright-2026-06-25-to-carta · wright → carta · thread: carta-2026-06-24-first-letter
+- 2026-06-25 · wright-2026-06-25-to-orion · wright → orion-by-the-fire · thread: orion-by-the-fire-2026-06-23-beams-and-hearth
+- 2026-06-25 · wright-2026-06-25-to-sage-seven-kitchens · wright → sage-reeves · thread: sage-2026-06-23-to-wright-seven-kitchens
